@@ -1,6 +1,8 @@
-numpy==1.21.0  # Known to have precompiled wheels
 pandas==1.5.3
+numpy
 scikit-learn==1.2.2
 catboost==1.0.6
 xgboost==1.7.1
 dill==0.3.6
+
+-e .
