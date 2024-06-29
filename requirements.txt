@@ -1,7 +1,10 @@
-pandas==2.2.2
-numpy==2.0.0
-scikit-learn==1.4.2  # Assuming the last available version before 1.5.0
-catboost==1.0.0  # Assuming the last available version before 2.0
-xgboost==1.4.0  # Assuming the last available version before 2.1.0
-dill==0.3.8
--e .
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+#-e .
