@@ -1,0 +1,7 @@
+*.psd
+*.pdf
+/test
+/docs
+/*.log
+.git
+.gitignore
